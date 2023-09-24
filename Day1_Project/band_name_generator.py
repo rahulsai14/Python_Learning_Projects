@@ -1,9 +1,4 @@
-#Day 1 project requirements
-#1. Create a greeting for your program.
-#2. Ask the user for the city that they grew up in.
-#3. Ask the user for the name of a pet.
-#4. Combine the name of their city and pet and show them their band name.
-
+#Simple Band Name Generator
 
 print('Hi welcome to band name generator!!')
 user_city = input("In which city you grew up?\n")
